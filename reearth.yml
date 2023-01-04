@@ -1,0 +1,12 @@
+name: Path Drawer
+version: 0.2.0
+id: reearth-plugin-path-drawer
+extensions:
+  - id: path-drawer
+    type: widget
+    name: Path Drawer
+    schema:
+      groups:
+        - id: default
+          title: default
+          fields:
