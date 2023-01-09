@@ -1,5 +1,4 @@
-# Plugin
-Path Draw plug-in
+# Path Drawer
 
 
 ## このプラグインについて
