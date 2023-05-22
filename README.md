@@ -9,18 +9,18 @@ Re:Earthのプロジェクト上にパス（直線）を描くことができる
 
 - 「パスを描く」をクリックし、マップ上に左クリックでパスを描くことができます。
   
-    ![](https://github.com/eukarya-inc/reearth-plugin-pathDrawer/src/img1.png)
+    ![](https://eukarya-inc.github.io/reearth-plugin-pathDrawer/src/img1.png)
 
 - パスを描き終わったあと、右クリックで描画を終了します。
 
 
-    ![](https://github.com/eukarya-inc/reearth-plugin-pathDrawer/src/img2.png)
+    ![](https://eukarya-inc.github.io/reearth-plugin-pathDrawer/src/img2.png)
 
 - プラグインのメニューで太さ（px）・色を変更できます。また、削除ボタンで描いたパスを削除できます。
 - プラグインのメニューで「バッファ」の使用有無や幅・色を変更できます。「バッファ」は、描いたパスを中心に両側からの距離（m）を指定できます。
 
 
-    ![](https://github.com/eukarya-inc/reearth-plugin-pathDrawer/src/img3.png)
+    ![](https://eukarya-inc.github.io/reearth-plugin-pathDrawer/src/img3.png)
 
 - 描画結果を保存したい場合は、「エクスポート」ボタンを押してGeoJsonファイルを作成します。作成したGeoJsonファイルはRe:Earthのファイルインポート機能でインポートすることができます。
 ※ブラウザの更新などをするとエクスポートしていないパスは消えてしまうので注意してください。
